@@ -1,0 +1,9 @@
+# Copyright (C) 2026 MyFeature, released under GNU AGPL v3 license: https://github.com/Psychostout/mangos-cata-server/blob/master/LICENSE
+
+[worldserver]
+######################################### My Feature configuration ##########################################
+#    MyFeature.Enable
+#        Description: Enable my custom feature and print "Hello World" message at server start
+#        Default:     0 - Disabled
+#                     1 - Enabled
+MyFeature.Enable = 1
