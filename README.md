@@ -4,10 +4,10 @@ A professional, standardized template for creating modular features across the M
 
 ## 🌟 Overview
 This skeleton provides a "plug-and-play" architecture for adding custom C++ logic to MaNGOS servers. It is designed to be compatible with:
-- **MaNGOS Zero** (Vanilla)
-- **MaNGOS Two** (TBC)
-- **MaNGOS Three / Cata** (Cata)
-- **MaNGOS Four** (MoP)
+- **MaNGOS Zero**  (Vanilla)
+- **MaNGOS Two**   (TBC)
+- **MaNGOS Three** (Cata)
+- **MaNGOS Four**  (MoP)
 
 Instead of hacking the core files (which makes updating your server a nightmare), this skeleton encourages a **Modular Approach**.
 
